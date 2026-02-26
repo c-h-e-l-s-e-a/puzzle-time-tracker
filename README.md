@@ -1,4 +1,9 @@
-# puzzle-time-tracker
+# Puzzle Time Tracker
+
+> _(for my own reference and remembering)_
+> README -> “What is this and why should I care?”
+> Wiki -> “How am I thinking about this?”
+> Issues -> “What needs to be decided or done next?”
 
 ## Core purpose
 
